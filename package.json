@@ -1,0 +1,9 @@
+{
+  "name": "base-commit",
+  "version": "1.0.0",
+  "description": "Base commit project with Vercel Web Analytics",
+  "private": true,
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  }
+}
